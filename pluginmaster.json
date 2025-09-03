@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "Author": "Enriath",
+        "Name": "Fractal Continuum",
+        "Punchline": "Let others see you as you see yourself.",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+        "Changelog": "- Automated build workflows, and a few changes to facilitate it. - Name has been updated in the installer (hopefully to mitigate the loading issue in Dalamud) - Version now uses the revision, though I won't be incrementing it. I hate C# building. ",
+        "InternalName": "FractalContinuum",
+        "AssemblyVersion": "1.11.4.0",
+        "RepoUrl": "https://github.com/Enriath/client",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/Enriath/client/main/MareSynchronos/images/logo.png",
+        "DownloadLinkInstall": "https://github.com/Enriath/client/releases/download/v1.11.4.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Enriath/client/releases/download/v1.11.4.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Enriath/client/releases/download/v1.11.4.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1756879468"
+    }
+]
